@@ -1,0 +1,770 @@
+[16-May-2019 18:53:37 UTC] PHP Warning:  file_put_contents(public/img/uploads/userpassport152_53_16-05-2019.png): failed to open stream: No such file or directory in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 98
+[16-May-2019 18:53:37 UTC] PHP Warning:  file_put_contents(public/img/uploads/driverlicense236_53_16-05-2019.png): failed to open stream: No such file or directory in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 107
+[16-May-2019 18:57:59 UTC] PHP Warning:  file_put_contents(public/img/uploads/userpassport67_57_16-05-2019.png): failed to open stream: No such file or directory in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 98
+[16-May-2019 18:57:59 UTC] PHP Warning:  file_put_contents(public/img/uploads/driverlicense471_57_16-05-2019.png): failed to open stream: No such file or directory in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 107
+[16-May-2019 20:33:32 UTC] PHP Warning:  file_put_contents(public/img/uploads/userpassport593_33_16-05-2019.png): failed to open stream: No such file or directory in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 98
+[16-May-2019 20:33:32 UTC] PHP Warning:  file_put_contents(public/img/uploads/driverlicense183_33_16-05-2019.png): failed to open stream: No such file or directory in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 107
+[16-May-2019 20:36:14 UTC] PHP Warning:  file_put_contents(public/img/uploads/userpassport231_36_16-05-2019.png): failed to open stream: No such file or directory in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 98
+[16-May-2019 20:36:14 UTC] PHP Warning:  file_put_contents(public/img/uploads/driverlicense248_36_16-05-2019.png): failed to open stream: No such file or directory in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 107
+[21-May-2019 01:09:57 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 8
+[21-May-2019 01:09:57 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 176
+[21-May-2019 01:09:57 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 177
+[21-May-2019 01:09:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 179
+[21-May-2019 01:09:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 181
+[21-May-2019 01:11:08 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 8
+[21-May-2019 01:11:08 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 176
+[21-May-2019 01:11:08 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 177
+[21-May-2019 01:11:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 179
+[21-May-2019 01:11:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 181
+[21-May-2019 01:11:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 8
+[21-May-2019 01:11:36 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 209
+[21-May-2019 01:11:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 220
+[21-May-2019 01:11:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 221
+[21-May-2019 01:11:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 229
+[21-May-2019 01:11:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 232
+[21-May-2019 01:12:58 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 8
+[21-May-2019 01:12:58 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 209
+[21-May-2019 01:12:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 220
+[21-May-2019 01:12:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 221
+[21-May-2019 01:12:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 229
+[21-May-2019 01:12:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 232
+[21-May-2019 01:13:19 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 8
+[21-May-2019 01:13:19 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 209
+[21-May-2019 01:13:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 220
+[21-May-2019 01:13:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 221
+[21-May-2019 01:13:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 229
+[21-May-2019 01:13:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 232
+[21-May-2019 01:14:47 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'oforsoft_mbk'@'localhost' (using password: YES) in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 8
+[21-May-2019 01:14:47 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 209
+[21-May-2019 01:14:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 220
+[21-May-2019 01:14:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 221
+[21-May-2019 01:14:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 229
+[21-May-2019 01:14:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 232
+[21-May-2019 01:16:01 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'oforsoft_mbk'@'localhost' (using password: YES) in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 16
+[21-May-2019 01:16:01 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 217
+[21-May-2019 01:16:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 228
+[21-May-2019 01:16:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 229
+[21-May-2019 01:16:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 237
+[21-May-2019 01:16:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 240
+[21-May-2019 01:16:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'oforsoft_mbk'@'localhost' (using password: YES) in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 16
+[21-May-2019 01:16:29 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 275
+[21-May-2019 01:16:29 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 276
+[21-May-2019 01:16:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 283
+[21-May-2019 01:16:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 284
+[21-May-2019 01:16:50 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'oforsoft_mbk'@'localhost' (using password: YES) in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 16
+[21-May-2019 01:16:50 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 217
+[21-May-2019 01:16:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 228
+[21-May-2019 01:16:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 229
+[21-May-2019 01:16:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 237
+[21-May-2019 01:16:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 240
+[21-May-2019 01:17:39 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'oforsoft_mbk'@'localhost' (using password: YES) in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 16
+[21-May-2019 01:17:39 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 275
+[21-May-2019 01:17:39 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 276
+[21-May-2019 01:17:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 283
+[21-May-2019 01:17:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 284
+[21-May-2019 01:19:25 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'oforsoft_mbk'@'localhost' (using password: YES) in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 16
+[21-May-2019 01:19:25 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 217
+[21-May-2019 01:19:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 228
+[21-May-2019 01:19:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 229
+[21-May-2019 01:19:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 237
+[21-May-2019 01:19:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 240
+[21-May-2019 01:21:05 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'oforsoft_mbk'@'localhost' (using password: YES) in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 16
+[21-May-2019 01:21:05 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 275
+[21-May-2019 01:21:05 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 276
+[21-May-2019 01:21:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 283
+[21-May-2019 01:21:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 284
+[21-May-2019 01:21:33 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'oforsoft_mbk'@'localhost' (using password: YES) in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 16
+[21-May-2019 01:21:33 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 217
+[21-May-2019 01:21:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 228
+[21-May-2019 01:21:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 229
+[21-May-2019 01:21:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 237
+[21-May-2019 01:21:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 240
+[21-May-2019 01:22:32 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'oforsoft_mbk'@'localhost' (using password: YES) in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 16
+[21-May-2019 01:22:32 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 217
+[21-May-2019 01:22:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 228
+[21-May-2019 01:22:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 229
+[21-May-2019 01:22:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 237
+[21-May-2019 01:22:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 240
+[21-May-2019 01:23:24 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'oforsoft_mbk'@'localhost' (using password: YES) in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 16
+[21-May-2019 01:23:24 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 217
+[21-May-2019 01:23:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 230
+[21-May-2019 01:23:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 231
+[21-May-2019 01:23:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 239
+[21-May-2019 01:23:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 242
+[21-May-2019 01:24:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'oforsoft_mbk'@'localhost' (using password: YES) in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 16
+[21-May-2019 01:24:36 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 217
+[21-May-2019 01:24:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 230
+[21-May-2019 01:24:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 231
+[21-May-2019 01:24:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 239
+[21-May-2019 01:24:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 242
+[21-May-2019 01:24:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'oforsoft_mbk'@'localhost' (using password: YES) in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 16
+[21-May-2019 01:24:49 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 217
+[21-May-2019 01:24:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 230
+[21-May-2019 01:24:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 231
+[21-May-2019 01:24:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 239
+[21-May-2019 01:24:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 242
+[21-May-2019 01:25:31 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'oforsoft_mbk'@'localhost' (using password: YES) in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 16
+[21-May-2019 01:25:31 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 222
+[21-May-2019 01:25:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 235
+[21-May-2019 01:25:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 236
+[21-May-2019 01:25:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 244
+[21-May-2019 01:25:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 247
+[21-May-2019 01:26:13 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'oforsoft_mbk'@'localhost' (using password: YES) in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 16
+[21-May-2019 01:26:13 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 24
+[21-May-2019 01:26:13 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 225
+[21-May-2019 01:26:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 238
+[21-May-2019 01:26:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 239
+[21-May-2019 01:26:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 247
+[21-May-2019 01:26:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 250
+[21-May-2019 01:28:32 UTC] PHP Warning:  file_put_contents(public/img/uploads/userpassport348_28_21-05-2019.png): failed to open stream: No such file or directory in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 106
+[21-May-2019 01:28:32 UTC] PHP Warning:  file_put_contents(public/img/uploads/driverlicense437_28_21-05-2019.png): failed to open stream: No such file or directory in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 115
+[21-May-2019 01:32:39 UTC] PHP Warning:  file_put_contents(public/img/uploads/userpassport32_32_21-05-2019.png): failed to open stream: No such file or directory in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 106
+[21-May-2019 01:32:39 UTC] PHP Warning:  file_put_contents(public/img/uploads/driverlicense383_32_21-05-2019.png): failed to open stream: No such file or directory in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 115
+[22-May-2019 10:25:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 307
+[22-May-2019 10:25:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 307
+[22-May-2019 10:37:46 UTC] PHP Notice:  Undefined index: location_json in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 304
+[22-May-2019 15:06:41 UTC] PHP Warning:  file_put_contents(public/img/uploads/userpassport134_06_22-05-2019.png): failed to open stream: No such file or directory in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 106
+[22-May-2019 15:06:41 UTC] PHP Warning:  file_put_contents(public/img/uploads/driverlicense241_06_22-05-2019.png): failed to open stream: No such file or directory in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 115
+[23-May-2019 13:58:25 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 51
+[23-May-2019 19:57:15 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 51
+[27-May-2019 14:49:08 UTC] PHP Notice:  Undefined index: user_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 333
+[27-May-2019 14:49:08 UTC] PHP Notice:  Undefined index: user_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 333
+[27-May-2019 14:49:08 UTC] PHP Notice:  Undefined index: user_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 333
+[27-May-2019 14:49:37 UTC] PHP Notice:  Undefined index: user_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 333
+[27-May-2019 14:49:37 UTC] PHP Notice:  Undefined index: user_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 333
+[27-May-2019 14:49:37 UTC] PHP Notice:  Undefined index: user_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 333
+[27-May-2019 14:50:11 UTC] PHP Notice:  Undefined index: user_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 333
+[27-May-2019 14:50:11 UTC] PHP Notice:  Undefined index: user_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 333
+[27-May-2019 14:50:11 UTC] PHP Notice:  Undefined index: user_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 333
+[27-May-2019 14:52:05 UTC] PHP Notice:  Undefined index: user_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 333
+[27-May-2019 14:52:05 UTC] PHP Notice:  Undefined index: user_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 333
+[27-May-2019 14:52:05 UTC] PHP Notice:  Undefined index: user_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 333
+[27-May-2019 17:44:28 UTC] PHP Notice:  Undefined index: user_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 314
+[27-May-2019 17:44:28 UTC] PHP Notice:  Undefined index: pickup_address in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 316
+[27-May-2019 17:44:28 UTC] PHP Notice:  Undefined index: delievery_address in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 317
+[27-May-2019 17:50:49 UTC] PHP Notice:  Undefined index: user_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 432
+[27-May-2019 17:51:13 UTC] PHP Notice:  Undefined index: user_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 432
+[27-May-2019 17:51:13 UTC] PHP Notice:  Array to string conversion in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 442
+[27-May-2019 17:51:13 UTC] PHP Notice:  Array to string conversion in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 442
+[27-May-2019 17:52:12 UTC] PHP Notice:  Undefined index: user_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 432
+[27-May-2019 17:54:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 442
+[27-May-2019 17:54:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 442
+[27-May-2019 17:54:24 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 442
+[27-May-2019 17:54:24 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 442
+[27-May-2019 17:55:43 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 442
+[27-May-2019 17:55:43 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 442
+[27-May-2019 18:02:30 UTC] PHP Notice:  Array to string conversion in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 442
+[27-May-2019 18:02:30 UTC] PHP Notice:  Array to string conversion in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 442
+[27-May-2019 18:10:03 UTC] PHP Warning:  Creating default object from empty value in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 446
+[27-May-2019 18:10:10 UTC] PHP Warning:  Creating default object from empty value in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 446
+[27-May-2019 18:10:40 UTC] PHP Warning:  Creating default object from empty value in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 446
+[27-May-2019 18:11:02 UTC] PHP Warning:  Creating default object from empty value in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 446
+[27-May-2019 18:11:25 UTC] PHP Warning:  Creating default object from empty value in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 446
+[27-May-2019 18:11:57 UTC] PHP Warning:  Creating default object from empty value in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 446
+[27-May-2019 18:12:27 UTC] PHP Warning:  Creating default object from empty value in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 446
+[27-May-2019 18:13:18 UTC] PHP Warning:  Creating default object from empty value in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 446
+[27-May-2019 18:13:40 UTC] PHP Warning:  Creating default object from empty value in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 446
+[27-May-2019 18:13:52 UTC] PHP Warning:  Creating default object from empty value in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 446
+[27-May-2019 18:13:57 UTC] PHP Warning:  Creating default object from empty value in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 446
+[27-May-2019 18:24:24 UTC] PHP Notice:  Array to string conversion in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 462
+[27-May-2019 19:01:52 UTC] PHP Notice:  Array to string conversion in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 448
+[27-May-2019 19:01:52 UTC] PHP Notice:  Array to string conversion in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 448
+[27-May-2019 19:01:52 UTC] PHP Notice:  Undefined variable: someJSON in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 459
+[27-May-2019 19:02:39 UTC] PHP Notice:  Undefined variable: someJSON in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 460
+[27-May-2019 19:03:23 UTC] PHP Notice:  Undefined variable: someJSON in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 460
+[27-May-2019 19:03:56 UTC] PHP Notice:  Undefined variable: someJSON in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 460
+[27-May-2019 19:04:05 UTC] PHP Notice:  Undefined variable: someJSON in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 460
+[27-May-2019 19:04:28 UTC] PHP Notice:  Undefined variable: someJSON in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 459
+[27-May-2019 19:04:37 UTC] PHP Notice:  Undefined variable: someJSON in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 459
+[27-May-2019 19:04:56 UTC] PHP Notice:  Undefined variable: someJSON in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 459
+[27-May-2019 19:04:56 UTC] PHP Notice:  Array to string conversion in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 461
+[27-May-2019 19:05:14 UTC] PHP Notice:  Undefined variable: someJSON in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 459
+[27-May-2019 19:05:37 UTC] PHP Notice:  Undefined variable: somerowsJSONJSON in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 459
+[27-May-2019 19:06:05 UTC] PHP Notice:  Undefined variable: somerowsJSONJSON in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 459
+[27-May-2019 19:07:09 UTC] PHP Notice:  Undefined variable: somerowsJSONJSON in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 459
+[27-May-2019 19:09:40 UTC] PHP Notice:  Undefined index: longitude in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 434
+[27-May-2019 19:09:40 UTC] PHP Notice:  Undefined index: latitude in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 435
+[27-May-2019 19:09:40 UTC] PHP Notice:  Undefined variable: select_stmt in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 449
+[27-May-2019 19:09:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 449
+[27-May-2019 19:09:59 UTC] PHP Notice:  Undefined index: user_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 432
+[27-May-2019 19:09:59 UTC] PHP Notice:  Undefined variable: select_stmt in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 449
+[27-May-2019 19:09:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 449
+[27-May-2019 19:10:23 UTC] PHP Notice:  Undefined index: user_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 432
+[27-May-2019 19:10:23 UTC] PHP Notice:  Undefined variable: select_stmt in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 449
+[27-May-2019 19:10:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 449
+[27-May-2019 19:10:41 UTC] PHP Notice:  Undefined variable: select_stmt in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 449
+[27-May-2019 19:10:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 449
+[27-May-2019 19:11:09 UTC] PHP Notice:  Undefined variable: select_stmt in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 449
+[27-May-2019 19:11:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 449
+[28-May-2019 12:40:58 UTC] PHP Notice:  Array to string conversion in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 460
+[28-May-2019 13:19:59 UTC] PHP Notice:  Undefined index: user_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 314
+[28-May-2019 13:20:02 UTC] PHP Notice:  Undefined index: pickup_address in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 316
+[28-May-2019 13:20:02 UTC] PHP Notice:  Undefined index: delievery_address in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 317
+[29-May-2019 01:34:48 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 484
+[29-May-2019 01:34:49 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 484
+[29-May-2019 01:36:41 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 484
+[29-May-2019 01:36:41 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 484
+[30-May-2019 17:20:33 UTC] PHP Notice:  Undefined index: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 473
+[30-May-2019 17:20:33 UTC] PHP Notice:  Undefined index: rider_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 474
+[30-May-2019 17:21:21 UTC] PHP Notice:  Undefined index: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 473
+[30-May-2019 17:21:21 UTC] PHP Notice:  Undefined index: rider_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 474
+[30-May-2019 17:25:05 UTC] PHP Notice:  Undefined index: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 473
+[30-May-2019 17:25:05 UTC] PHP Notice:  Undefined index: rider_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 474
+[30-May-2019 17:27:50 UTC] PHP Notice:  Undefined index: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 473
+[30-May-2019 17:27:50 UTC] PHP Notice:  Undefined index: rider_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 474
+[30-May-2019 17:31:47 UTC] PHP Notice:  Undefined index: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 473
+[30-May-2019 17:31:47 UTC] PHP Notice:  Undefined index: rider_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 474
+[30-May-2019 17:31:56 UTC] PHP Notice:  Undefined index: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 473
+[30-May-2019 17:31:56 UTC] PHP Notice:  Undefined index: rider_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 474
+[30-May-2019 17:32:17 UTC] PHP Notice:  Undefined index: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 473
+[30-May-2019 17:32:17 UTC] PHP Notice:  Undefined index: rider_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 474
+[30-May-2019 17:36:46 UTC] PHP Notice:  Undefined index: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 473
+[30-May-2019 17:36:46 UTC] PHP Notice:  Undefined index: rider_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 474
+[30-May-2019 18:07:35 UTC] PHP Notice:  Undefined index: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 473
+[30-May-2019 18:07:35 UTC] PHP Notice:  Undefined index: rider_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 474
+[30-May-2019 18:10:32 UTC] PHP Notice:  Undefined index: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 473
+[30-May-2019 18:10:32 UTC] PHP Notice:  Undefined index: rider_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 474
+[30-May-2019 18:19:20 UTC] PHP Notice:  Undefined index: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 473
+[30-May-2019 18:19:20 UTC] PHP Notice:  Undefined index: rider_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 474
+[30-May-2019 18:52:41 UTC] PHP Notice:  Undefined index: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 473
+[30-May-2019 18:52:41 UTC] PHP Notice:  Undefined index: rider_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 474
+[30-May-2019 18:53:55 UTC] PHP Notice:  Undefined index: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 473
+[30-May-2019 18:53:55 UTC] PHP Notice:  Undefined index: rider_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 474
+[30-May-2019 18:54:20 UTC] PHP Notice:  Undefined index: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 473
+[30-May-2019 18:54:20 UTC] PHP Notice:  Undefined index: rider_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 474
+[30-May-2019 18:55:31 UTC] PHP Notice:  Undefined index: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 473
+[30-May-2019 18:55:31 UTC] PHP Notice:  Undefined index: rider_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 474
+[30-May-2019 18:55:44 UTC] PHP Notice:  Undefined index: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 473
+[30-May-2019 18:55:44 UTC] PHP Notice:  Undefined index: rider_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 474
+[30-May-2019 18:55:46 UTC] PHP Notice:  Undefined index: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 473
+[30-May-2019 18:55:46 UTC] PHP Notice:  Undefined index: rider_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 474
+[30-May-2019 18:56:55 UTC] PHP Notice:  Undefined index: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 473
+[30-May-2019 18:56:55 UTC] PHP Notice:  Undefined index: rider_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 474
+[30-May-2019 18:57:58 UTC] PHP Notice:  Undefined index: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 473
+[30-May-2019 18:57:58 UTC] PHP Notice:  Undefined index: rider_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 474
+[30-May-2019 18:58:02 UTC] PHP Notice:  Undefined index: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 473
+[30-May-2019 18:58:02 UTC] PHP Notice:  Undefined index: rider_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 474
+[30-May-2019 18:58:38 UTC] PHP Notice:  Undefined index: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 473
+[30-May-2019 18:58:38 UTC] PHP Notice:  Undefined index: rider_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 474
+[30-May-2019 20:39:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 479
+[30-May-2019 20:39:11 UTC] PHP Notice:  Undefined variable: rows in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 485
+[30-May-2019 20:39:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 479
+[30-May-2019 20:39:18 UTC] PHP Notice:  Undefined variable: rows in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 485
+[30-May-2019 20:39:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 479
+[30-May-2019 20:39:26 UTC] PHP Notice:  Undefined variable: rows in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 485
+[30-May-2019 20:39:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 479
+[30-May-2019 20:39:33 UTC] PHP Notice:  Undefined variable: rows in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 485
+[30-May-2019 20:39:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 479
+[30-May-2019 20:39:41 UTC] PHP Notice:  Undefined variable: rows in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 485
+[30-May-2019 20:39:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 479
+[30-May-2019 20:39:48 UTC] PHP Notice:  Undefined variable: rows in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 485
+[30-May-2019 20:39:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 479
+[30-May-2019 20:39:56 UTC] PHP Notice:  Undefined variable: rows in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 485
+[30-May-2019 20:40:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 479
+[30-May-2019 20:40:03 UTC] PHP Notice:  Undefined variable: rows in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 485
+[30-May-2019 20:40:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 479
+[30-May-2019 20:40:11 UTC] PHP Notice:  Undefined variable: rows in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 485
+[30-May-2019 20:40:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 479
+[30-May-2019 20:40:18 UTC] PHP Notice:  Undefined variable: rows in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 485
+[30-May-2019 20:40:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 479
+[30-May-2019 20:40:26 UTC] PHP Notice:  Undefined variable: rows in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 485
+[30-May-2019 20:40:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 479
+[30-May-2019 20:40:34 UTC] PHP Notice:  Undefined variable: rows in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 485
+[30-May-2019 20:40:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 479
+[30-May-2019 20:40:41 UTC] PHP Notice:  Undefined variable: rows in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 485
+[30-May-2019 20:40:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 479
+[30-May-2019 20:40:48 UTC] PHP Notice:  Undefined variable: rows in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 485
+[30-May-2019 20:40:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 479
+[30-May-2019 20:40:56 UTC] PHP Notice:  Undefined variable: rows in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 485
+[30-May-2019 20:41:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 479
+[30-May-2019 20:41:03 UTC] PHP Notice:  Undefined variable: rows in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 485
+[30-May-2019 20:41:05 UTC] PHP Notice:  Undefined index: user_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 472
+[30-May-2019 20:41:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 479
+[30-May-2019 20:41:05 UTC] PHP Notice:  Undefined variable: rows in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 485
+[30-May-2019 20:41:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 479
+[30-May-2019 20:41:11 UTC] PHP Notice:  Undefined variable: rows in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 485
+[30-May-2019 20:41:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 479
+[30-May-2019 20:41:18 UTC] PHP Notice:  Undefined variable: rows in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 485
+[30-May-2019 20:41:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 479
+[30-May-2019 20:41:20 UTC] PHP Notice:  Undefined variable: rows in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 485
+[30-May-2019 20:41:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 479
+[30-May-2019 20:41:26 UTC] PHP Notice:  Undefined variable: rows in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 485
+[30-May-2019 20:41:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 479
+[30-May-2019 20:41:28 UTC] PHP Notice:  Undefined variable: rows in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 485
+[30-May-2019 20:41:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 479
+[30-May-2019 20:41:33 UTC] PHP Notice:  Undefined variable: rows in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 485
+[30-May-2019 20:41:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 479
+[30-May-2019 20:41:41 UTC] PHP Notice:  Undefined variable: rows in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 485
+[30-May-2019 20:41:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 479
+[30-May-2019 20:41:49 UTC] PHP Notice:  Undefined variable: rows in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 485
+[30-May-2019 20:41:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 479
+[30-May-2019 20:41:57 UTC] PHP Notice:  Undefined variable: rows in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 485
+[30-May-2019 20:42:04 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:42:08 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:42:11 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:42:14 UTC] PHP Notice:  Undefined variable: rows in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 485
+[30-May-2019 20:42:19 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:42:20 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:42:26 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:42:34 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:42:41 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:42:49 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:42:51 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:42:56 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:43:04 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:43:11 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:43:19 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:43:26 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:43:34 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:43:41 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:43:49 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:43:57 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:44:04 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:44:11 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:44:19 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:44:26 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:44:34 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:44:41 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:44:49 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:44:56 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:45:04 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:45:11 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:45:19 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:45:27 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:45:34 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:45:41 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:45:49 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:45:56 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:46:04 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:46:12 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:46:19 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:46:26 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:46:34 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:46:42 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:46:49 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:46:53 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:46:57 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:47:04 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:47:12 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:47:19 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:47:26 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:47:27 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:47:34 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:47:42 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:47:49 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:48:49 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:48:53 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:48:57 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:49:04 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:49:12 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:49:19 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:49:19 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:49:27 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:49:34 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:49:42 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:49:49 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:49:57 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:50:04 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:50:12 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:50:19 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:50:27 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:50:34 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:50:42 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:50:50 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:50:57 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:51:04 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:51:12 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:51:20 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:51:27 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:51:34 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:51:39 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:51:42 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:51:50 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:51:57 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:52:05 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:52:12 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:52:16 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:52:16 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:52:16 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:52:20 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:52:20 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:52:20 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:52:27 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:52:27 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:52:27 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:52:35 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:52:35 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:52:35 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:52:42 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:52:42 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:52:42 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:52:50 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:52:50 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:52:50 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:52:57 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:52:57 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:52:57 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:53:05 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:53:05 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:53:05 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:53:12 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:53:12 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:53:12 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:53:20 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:53:20 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:53:20 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:53:27 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:53:27 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:53:27 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:53:35 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:53:35 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:53:35 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:53:42 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:53:42 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:53:42 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:53:50 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:53:50 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:53:50 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:53:58 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:53:58 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:53:58 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:54:05 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:54:05 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:54:05 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:54:12 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:54:12 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:54:12 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:54:20 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:54:20 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:54:20 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:54:27 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:54:27 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:54:27 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:54:35 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:54:35 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:54:35 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:54:42 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:54:42 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:54:42 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:54:50 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:54:50 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:54:50 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:54:58 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:54:58 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:54:58 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:55:06 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:55:06 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:55:06 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:55:12 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:55:12 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:55:12 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:55:20 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:55:20 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:55:20 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:55:27 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:55:27 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:55:27 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:55:35 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:55:35 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:55:35 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:55:37 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:55:37 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:55:37 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:55:43 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:55:43 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:55:43 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:55:50 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:55:50 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:55:50 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:55:58 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:55:58 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:55:58 UTC] PHP Notice:  Undefined variable: r in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:57:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:57:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:57:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:57:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 482
+[30-May-2019 20:57:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:57:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:58:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 20:58:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 481
+[30-May-2019 21:03:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 491
+[30-May-2019 21:03:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 491
+[30-May-2019 21:03:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 491
+[30-May-2019 21:03:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 491
+[30-May-2019 21:04:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 491
+[30-May-2019 21:04:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 491
+[30-May-2019 21:04:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 491
+[30-May-2019 21:04:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 491
+[30-May-2019 21:04:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 491
+[30-May-2019 21:04:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 491
+[30-May-2019 21:04:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 491
+[30-May-2019 21:04:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 491
+[30-May-2019 21:04:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 491
+[30-May-2019 21:05:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 491
+[30-May-2019 21:05:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 491
+[30-May-2019 21:05:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 491
+[30-May-2019 21:05:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 491
+[30-May-2019 21:05:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 491
+[30-May-2019 21:05:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 491
+[30-May-2019 21:05:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 491
+[30-May-2019 21:05:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 491
+[30-May-2019 21:06:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 491
+[30-May-2019 21:06:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 491
+[30-May-2019 21:07:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 490
+[30-May-2019 21:07:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 490
+[30-May-2019 21:07:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 490
+[30-May-2019 21:07:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 490
+[30-May-2019 21:18:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 487
+[30-May-2019 21:19:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 487
+[30-May-2019 21:19:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 487
+[30-May-2019 21:19:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 487
+[30-May-2019 21:19:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 487
+[30-May-2019 21:19:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 487
+[30-May-2019 21:19:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 487
+[30-May-2019 21:19:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 487
+[30-May-2019 21:19:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 487
+[30-May-2019 21:19:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 487
+[30-May-2019 21:19:53 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 487
+[30-May-2019 21:20:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 487
+[30-May-2019 21:20:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 487
+[30-May-2019 21:20:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 487
+[30-May-2019 21:21:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 487
+[30-May-2019 21:21:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 487
+[30-May-2019 21:21:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 487
+[30-May-2019 21:21:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 487
+[30-May-2019 21:21:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 487
+[30-May-2019 21:21:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 487
+[30-May-2019 21:21:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 487
+[30-May-2019 21:21:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 487
+[30-May-2019 21:21:53 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 487
+[30-May-2019 22:26:59 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 51
+[30-May-2019 22:41:54 UTC] PHP Warning:  file_put_contents(public/img/uploads/userpassport456_41_30-05-2019.png): failed to open stream: No such file or directory in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 106
+[30-May-2019 22:41:54 UTC] PHP Warning:  file_put_contents(public/img/uploads/driverlicense269_41_30-05-2019.png): failed to open stream: No such file or directory in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 115
+[30-May-2019 23:16:42 UTC] PHP Warning:  file_put_contents(public/img/uploads/userpassport555_16_30-05-2019.png): failed to open stream: No such file or directory in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 106
+[30-May-2019 23:16:42 UTC] PHP Warning:  file_put_contents(public/img/uploads/driverlicense577_16_30-05-2019.png): failed to open stream: No such file or directory in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 115
+[31-May-2019 20:12:24 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 51
+[01-Jun-2019 14:08:57 UTC] PHP Warning:  file_put_contents(public/img/uploads/userpassport392_08_01-06-2019.png): failed to open stream: No such file or directory in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 106
+[01-Jun-2019 14:08:57 UTC] PHP Warning:  file_put_contents(public/img/uploads/driverlicense219_08_01-06-2019.png): failed to open stream: No such file or directory in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 115
+[06-Jun-2019 12:03:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 322
+[06-Jun-2019 18:37:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 401
+[06-Jun-2019 18:39:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 401
+[06-Jun-2019 18:39:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 401
+[11-Jun-2019 10:27:17 UTC] PHP Warning:  file_put_contents(public/img/uploads/userpassport104_27_11-06-2019.png): failed to open stream: No such file or directory in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 106
+[11-Jun-2019 10:27:17 UTC] PHP Warning:  file_put_contents(public/img/uploads/driverlicense732_27_11-06-2019.png): failed to open stream: No such file or directory in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 115
+[11-Jun-2019 13:04:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 592
+[11-Jun-2019 14:02:55 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 16
+[11-Jun-2019 14:02:55 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 528
+[11-Jun-2019 14:02:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 538
+[11-Jun-2019 14:02:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 543
+[11-Jun-2019 14:03:02 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 16
+[11-Jun-2019 14:03:02 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 528
+[11-Jun-2019 14:03:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 538
+[11-Jun-2019 14:03:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 543
+[11-Jun-2019 14:03:10 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 16
+[11-Jun-2019 14:03:10 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 528
+[11-Jun-2019 14:03:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 538
+[11-Jun-2019 14:03:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 543
+[11-Jun-2019 14:03:17 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 16
+[11-Jun-2019 14:03:17 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 528
+[11-Jun-2019 14:03:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 538
+[11-Jun-2019 14:03:17 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 543
+[11-Jun-2019 14:03:25 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 16
+[11-Jun-2019 14:03:25 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 528
+[11-Jun-2019 14:03:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 538
+[11-Jun-2019 14:03:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 543
+[11-Jun-2019 14:03:32 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 16
+[11-Jun-2019 14:03:32 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 528
+[11-Jun-2019 14:03:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 538
+[11-Jun-2019 14:03:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 543
+[11-Jun-2019 14:03:40 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 16
+[11-Jun-2019 14:03:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 528
+[11-Jun-2019 14:03:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 538
+[11-Jun-2019 14:03:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 543
+[11-Jun-2019 14:03:47 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 16
+[11-Jun-2019 14:03:47 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 528
+[11-Jun-2019 14:03:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 538
+[11-Jun-2019 14:03:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 543
+[11-Jun-2019 14:03:55 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 16
+[11-Jun-2019 14:03:55 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 528
+[11-Jun-2019 14:03:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 538
+[11-Jun-2019 14:03:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 543
+[11-Jun-2019 15:59:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 548
+[11-Jun-2019 16:00:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 548
+[11-Jun-2019 16:00:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 548
+[11-Jun-2019 16:00:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 548
+[11-Jun-2019 16:00:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 548
+[11-Jun-2019 16:00:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 548
+[11-Jun-2019 16:00:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 548
+[11-Jun-2019 16:00:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 548
+[11-Jun-2019 16:00:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 548
+[11-Jun-2019 16:01:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 548
+[11-Jun-2019 16:01:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 548
+[11-Jun-2019 16:01:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 548
+[11-Jun-2019 16:01:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 548
+[11-Jun-2019 16:01:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 548
+[11-Jun-2019 16:01:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 548
+[11-Jun-2019 16:01:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 548
+[11-Jun-2019 16:01:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 548
+[11-Jun-2019 16:01:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 548
+[11-Jun-2019 16:02:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 548
+[11-Jun-2019 16:02:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 548
+[11-Jun-2019 16:02:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 548
+[11-Jun-2019 16:02:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 548
+[11-Jun-2019 16:02:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 548
+[11-Jun-2019 16:02:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 548
+[11-Jun-2019 16:02:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 548
+[11-Jun-2019 16:02:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 548
+[11-Jun-2019 19:48:47 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 51
+[12-Jun-2019 07:12:09 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 51
+[13-Jun-2019 09:52:32 UTC] PHP Notice:  Undefined variable: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 560
+[13-Jun-2019 10:05:27 UTC] PHP Notice:  Undefined variable: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 560
+[13-Jun-2019 10:16:31 UTC] PHP Notice:  Undefined variable: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 560
+[13-Jun-2019 10:24:23 UTC] PHP Notice:  Undefined variable: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 560
+[13-Jun-2019 10:24:27 UTC] PHP Notice:  Undefined variable: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 560
+[13-Jun-2019 10:24:58 UTC] PHP Notice:  Undefined variable: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 559
+[13-Jun-2019 10:24:58 UTC] PHP Notice:  Undefined variable: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 560
+[13-Jun-2019 10:25:02 UTC] PHP Notice:  Undefined variable: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 559
+[13-Jun-2019 10:25:02 UTC] PHP Notice:  Undefined variable: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 560
+[13-Jun-2019 10:25:05 UTC] PHP Notice:  Undefined variable: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 559
+[13-Jun-2019 10:25:05 UTC] PHP Notice:  Undefined variable: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 560
+[13-Jun-2019 10:25:09 UTC] PHP Notice:  Undefined variable: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 559
+[13-Jun-2019 10:25:09 UTC] PHP Notice:  Undefined variable: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 560
+[13-Jun-2019 10:25:10 UTC] PHP Notice:  Undefined variable: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 559
+[13-Jun-2019 10:25:10 UTC] PHP Notice:  Undefined variable: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 560
+[13-Jun-2019 10:25:15 UTC] PHP Notice:  Undefined variable: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 559
+[13-Jun-2019 10:25:15 UTC] PHP Notice:  Undefined variable: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 560
+[13-Jun-2019 10:25:32 UTC] PHP Notice:  Undefined variable: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 559
+[13-Jun-2019 10:25:32 UTC] PHP Notice:  Undefined variable: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 560
+[13-Jun-2019 10:29:03 UTC] PHP Notice:  Undefined variable: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 559
+[13-Jun-2019 10:29:03 UTC] PHP Notice:  Undefined variable: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 560
+[13-Jun-2019 10:29:20 UTC] PHP Notice:  Undefined variable: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 559
+[13-Jun-2019 10:29:20 UTC] PHP Notice:  Undefined variable: request_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 560
+[13-Jun-2019 17:38:52 UTC] PHP Notice:  Undefined index: rider_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 562
+[13-Jun-2019 17:39:14 UTC] PHP Notice:  Undefined index: rider_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 562
+[13-Jun-2019 17:39:17 UTC] PHP Notice:  Undefined index: rider_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 562
+[13-Jun-2019 17:40:04 UTC] PHP Notice:  Undefined index: rider_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 562
+[13-Jun-2019 17:40:07 UTC] PHP Notice:  Undefined index: rider_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 562
+[13-Jun-2019 17:42:05 UTC] PHP Notice:  Undefined index: rider_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 562
+[13-Jun-2019 17:42:47 UTC] PHP Notice:  Undefined index: rider_id in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 562
+[14-Jun-2019 15:41:11 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 59
+[14-Jun-2019 15:54:47 UTC] PHP Warning:  file_put_contents(public/img/uploads/userpassport512_54_14-06-2019.png): failed to open stream: No such file or directory in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 114
+[14-Jun-2019 15:54:47 UTC] PHP Warning:  file_put_contents(public/img/uploads/driverlicense412_54_14-06-2019.png): failed to open stream: No such file or directory in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 123
+[18-Jun-2019 11:38:20 UTC] PHP Warning:  file_put_contents(public/img/uploads/userpassport329_38_18-06-2019.png): failed to open stream: No such file or directory in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 114
+[18-Jun-2019 11:38:20 UTC] PHP Warning:  file_put_contents(public/img/uploads/driverlicense331_38_18-06-2019.png): failed to open stream: No such file or directory in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 123
+[18-Jun-2019 21:33:37 UTC] PHP Warning:  file_get_contents(http://smartsmssolutions.com/api/json.php?message=Your+verification+code+is%3A+9445&amp;to=0701 731 0660&amp;sender=MyBiker+NG&amp;type=0&amp;routing=6&amp;token=vSb0HALhlxffWmebSciMLIbDmiqanOG7Av5PmC6APXjNVwhAGdkxB7TiqkuhSfu3lNDS0QEWY27koMcEwRrTQoLtUxzQ6TD52dIz): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 263
+[18-Jun-2019 21:34:08 UTC] PHP Warning:  file_get_contents(http://smartsmssolutions.com/api/json.php?message=Your+verification+code+is%3A+5314&amp;to=0701 731 0660&amp;sender=MyBiker+NG&amp;type=0&amp;routing=6&amp;token=vSb0HALhlxffWmebSciMLIbDmiqanOG7Av5PmC6APXjNVwhAGdkxB7TiqkuhSfu3lNDS0QEWY27koMcEwRrTQoLtUxzQ6TD52dIz): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 263
+[18-Jun-2019 21:37:06 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 59
+[18-Jun-2019 22:54:50 UTC] PHP Warning:  file_get_contents(http://smartsmssolutions.com/api/json.php?message=Your+verification+code+is%3A+2501&amp;to=0817 573 2005&amp;sender=MyBiker+NG&amp;type=0&amp;routing=6&amp;token=vSb0HALhlxffWmebSciMLIbDmiqanOG7Av5PmC6APXjNVwhAGdkxB7TiqkuhSfu3lNDS0QEWY27koMcEwRrTQoLtUxzQ6TD52dIz): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 263
+[18-Jun-2019 22:55:28 UTC] PHP Warning:  file_get_contents(http://smartsmssolutions.com/api/json.php?message=Your+verification+code+is%3A+5713&amp;to=0817 573 2005&amp;sender=MyBiker+NG&amp;type=0&amp;routing=6&amp;token=vSb0HALhlxffWmebSciMLIbDmiqanOG7Av5PmC6APXjNVwhAGdkxB7TiqkuhSfu3lNDS0QEWY27koMcEwRrTQoLtUxzQ6TD52dIz): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 263
+[18-Jun-2019 22:56:08 UTC] PHP Warning:  file_get_contents(http://smartsmssolutions.com/api/json.php?message=Your+verification+code+is%3A+9821&amp;to=0817 573 2005&amp;sender=MyBiker+NG&amp;type=0&amp;routing=6&amp;token=vSb0HALhlxffWmebSciMLIbDmiqanOG7Av5PmC6APXjNVwhAGdkxB7TiqkuhSfu3lNDS0QEWY27koMcEwRrTQoLtUxzQ6TD52dIz): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 263
+[19-Jun-2019 22:50:10 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 59
+[19-Jun-2019 23:06:55 UTC] PHP Notice:  Undefined variable: checkbakance in /home/oforsoft/public_html/mybiker.ng/backend/smsbalance.php on line 4
+[19-Jun-2019 23:06:55 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/oforsoft/public_html/mybiker.ng/backend/smsbalance.php on line 4
+[19-Jun-2019 23:08:14 UTC] PHP Notice:  Undefined variable: checkbakance in /home/oforsoft/public_html/mybiker.ng/backend/smsbalance.php on line 4
+[19-Jun-2019 23:08:14 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/oforsoft/public_html/mybiker.ng/backend/smsbalance.php on line 4
+[20-Jun-2019 00:13:37 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 848
+[20-Jun-2019 00:13:45 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 848
+[20-Jun-2019 00:14:35 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 848
+[20-Jun-2019 00:24:57 UTC] PHP Notice:  Undefined property: stdClass::$firstname in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 850
+[20-Jun-2019 00:24:57 UTC] PHP Notice:  Undefined property: stdClass::$lastname in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 850
+[27-Jun-2019 13:38:09 UTC] PHP Notice:  Undefined variable: token in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 278
+[27-Jun-2019 13:39:45 UTC] PHP Notice:  Undefined variable: token in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 278
+[27-Jun-2019 13:40:21 UTC] PHP Notice:  Undefined variable: token in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 278
+[27-Jun-2019 15:56:01 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 59
+[27-Jun-2019 15:56:08 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 59
+[27-Jun-2019 16:00:45 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 59
+[27-Jun-2019 19:16:23 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 59
+[27-Jun-2019 20:11:41 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 59
+[27-Jun-2019 20:11:51 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 59
+[27-Jun-2019 20:12:06 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 59
+[27-Jun-2019 20:12:33 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 59
+[27-Jun-2019 20:12:37 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 59
+[27-Jun-2019 20:12:40 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 59
+[27-Jun-2019 20:12:46 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 59
+[27-Jun-2019 20:12:48 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 59
+[27-Jun-2019 20:12:50 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 59
+[27-Jun-2019 20:13:01 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 59
+[27-Jun-2019 20:13:03 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 59
+[27-Jun-2019 20:13:04 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 59
+[27-Jun-2019 20:13:06 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 59
+[27-Jun-2019 20:13:08 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 59
+[27-Jun-2019 20:13:10 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 59
+[27-Jun-2019 20:14:14 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 59
+[27-Jun-2019 20:14:20 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 59
+[27-Jun-2019 20:14:22 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 59
+[27-Jun-2019 20:15:50 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 59
+[28-Jun-2019 09:07:58 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 59
+[28-Jun-2019 09:08:06 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 59
+[28-Jun-2019 09:08:10 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 59
+[28-Jun-2019 09:08:12 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 59
+[28-Jun-2019 09:08:14 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 59
+[28-Jun-2019 09:09:14 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 59
+[28-Jun-2019 12:39:18 UTC] PHP Warning:  file_get_contents(https://www.bulksmsnigeria.com/api/v1/sms/create?api_token=rkhToU5NaOJNm3ngyGSxcpcmtbzPYJB02brLl95DLmlvGiUD6JIvE8SRG7jI&amp;to=701 731 0660#&amp;from=MyBikerNG&amp;body=Your+MYBIKERNG+verification+number+is%3A+3950): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 286
+[28-Jun-2019 12:39:44 UTC] PHP Warning:  file_get_contents(https://www.bulksmsnigeria.com/api/v1/sms/create?api_token=rkhToU5NaOJNm3ngyGSxcpcmtbzPYJB02brLl95DLmlvGiUD6JIvE8SRG7jI&amp;to=0701 731 0660&amp;from=MyBikerNG&amp;body=Your+MYBIKERNG+verification+number+is%3A+2531): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 286
+[28-Jun-2019 12:40:26 UTC] PHP Warning:  file_get_contents(https://www.bulksmsnigeria.com/api/v1/sms/create?api_token=rkhToU5NaOJNm3ngyGSxcpcmtbzPYJB02brLl95DLmlvGiUD6JIvE8SRG7jI&amp;to=701 731 0660&amp;from=MyBikerNG&amp;body=Your+MYBIKERNG+verification+number+is%3A+3328): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 286
+[05-Jul-2019 15:50:36 UTC] PHP Warning:  file_get_contents(https://www.bulksmsnigeria.com/api/v1/sms/create?api_token=rkhToU5NaOJNm3ngyGSxcpcmtbzPYJB02brLl95DLmlvGiUD6JIvE8SRG7jI&amp;to=0817 573 2005&amp;from=MyBikerNG&amp;body=Your+MYBIKERNG+verification+number+is%3A+5792): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 286
+[05-Jul-2019 15:51:52 UTC] PHP Warning:  file_get_contents(https://www.bulksmsnigeria.com/api/v1/sms/create?api_token=rkhToU5NaOJNm3ngyGSxcpcmtbzPYJB02brLl95DLmlvGiUD6JIvE8SRG7jI&amp;to=0817 573 2005&amp;from=MyBikerNG&amp;body=Your+MYBIKERNG+verification+number+is%3A+5606): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 286
+[05-Jul-2019 15:52:35 UTC] PHP Warning:  file_get_contents(https://www.bulksmsnigeria.com/api/v1/sms/create?api_token=rkhToU5NaOJNm3ngyGSxcpcmtbzPYJB02brLl95DLmlvGiUD6JIvE8SRG7jI&amp;to=817 573 2005&amp;from=MyBikerNG&amp;body=Your+MYBIKERNG+verification+number+is%3A+5140): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 286
+[05-Jul-2019 15:53:32 UTC] PHP Warning:  file_get_contents(https://www.bulksmsnigeria.com/api/v1/sms/create?api_token=rkhToU5NaOJNm3ngyGSxcpcmtbzPYJB02brLl95DLmlvGiUD6JIvE8SRG7jI&amp;to=817 573 2005&amp;from=MyBikerNG&amp;body=Your+MYBIKERNG+verification+number+is%3A+3058): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 286
+[08-Jul-2019 21:56:41 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 59
+[08-Jul-2019 21:56:45 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 59
+[08-Jul-2019 21:56:51 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 59
+[08-Jul-2019 21:56:54 UTC] PHP Notice:  Undefined index: myphone in /home/oforsoft/public_html/mybiker.ng/backend/api.php on line 59
+[12-Jul-2019 18:12:10 UTC] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/oforsoft/public_html/mybiker.ng/backend/app-phone-verification.php on line 18
+[12-Jul-2019 18:21:33 UTC] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/oforsoft/public_html/mybiker.ng/backend/app-phone-verification.php on line 15
+[12-Jul-2019 18:28:16 UTC] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/oforsoft/public_html/mybiker.ng/backend/app-phone-verification.php on line 12
+[12-Jul-2019 18:28:27 UTC] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/oforsoft/public_html/mybiker.ng/backend/app-phone-verification.php on line 33
+[12-Jul-2019 18:34:19 UTC] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/oforsoft/public_html/mybiker.ng/backend/app-phone-verification.php on line 33
+[12-Jul-2019 18:34:28 UTC] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/oforsoft/public_html/mybiker.ng/backend/app-phone-verification.php on line 34
+[12-Jul-2019 18:35:05 UTC] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/oforsoft/public_html/mybiker.ng/backend/app-phone-verification.php on line 15
+[13-Jul-2019 09:24:09 UTC] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/oforsoft/public_html/mybiker.ng/backend/app-phone-verification.php on line 15
+[13-Jul-2019 09:24:24 UTC] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/oforsoft/public_html/mybiker.ng/backend/app-phone-verification.php on line 15
+[13-Jul-2019 09:27:30 UTC] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/oforsoft/public_html/mybiker.ng/backend/app-phone-verification.php on line 15
+[13-Jul-2019 09:28:50 UTC] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/oforsoft/public_html/mybiker.ng/backend/app-phone-verification.php on line 15
+[23-Nov-2019 18:41:32 UTC] PHP Notice:  Undefined property: stdClass::$email in /home/oforsoft/public_html/ziroute.com/backend/api.php on line 870
+[23-Nov-2019 18:42:13 UTC] PHP Notice:  Undefined property: stdClass::$email in /home/oforsoft/public_html/ziroute.com/backend/api.php on line 870
+[23-Nov-2019 18:43:14 UTC] PHP Notice:  Undefined property: stdClass::$email in /home/oforsoft/public_html/ziroute.com/backend/api.php on line 870
+[23-Nov-2019 18:46:10 UTC] PHP Notice:  Undefined property: stdClass::$email in /home/oforsoft/public_html/ziroute.com/backend/api.php on line 870
+[23-Nov-2019 18:46:24 UTC] PHP Notice:  Undefined property: stdClass::$email in /home/oforsoft/public_html/ziroute.com/backend/api.php on line 870
+[23-Nov-2019 18:46:29 UTC] PHP Notice:  Undefined property: stdClass::$email in /home/oforsoft/public_html/ziroute.com/backend/api.php on line 870
+[23-Nov-2019 18:47:48 UTC] PHP Notice:  Undefined property: stdClass::$email in /home/oforsoft/public_html/ziroute.com/backend/api.php on line 870
+[23-Nov-2019 19:01:49 UTC] PHP Notice:  Undefined property: stdClass::$email in /home/oforsoft/public_html/ziroute.com/backend/api.php on line 870
+[23-Nov-2019 19:04:14 UTC] PHP Notice:  Undefined property: stdClass::$email in /home/oforsoft/public_html/ziroute.com/backend/api.php on line 870
+[23-Nov-2019 19:04:47 UTC] PHP Notice:  Undefined property: stdClass::$email in /home/oforsoft/public_html/ziroute.com/backend/api.php on line 870
+[23-Nov-2019 19:05:21 UTC] PHP Notice:  Undefined property: stdClass::$email in /home/oforsoft/public_html/ziroute.com/backend/api.php on line 870
+[23-Nov-2019 19:08:52 UTC] PHP Notice:  Undefined property: stdClass::$email in /home/oforsoft/public_html/ziroute.com/backend/api.php on line 870
+[23-Nov-2019 19:09:24 UTC] PHP Notice:  Undefined property: stdClass::$email in /home/oforsoft/public_html/ziroute.com/backend/api.php on line 870
+[23-Nov-2019 19:11:24 UTC] PHP Notice:  Undefined property: stdClass::$email in /home/oforsoft/public_html/ziroute.com/backend/api.php on line 870
+[23-Nov-2019 19:12:39 UTC] PHP Notice:  Undefined property: stdClass::$email in /home/oforsoft/public_html/ziroute.com/backend/api.php on line 870
+[23-Nov-2019 19:13:51 UTC] PHP Notice:  Undefined property: stdClass::$email in /home/oforsoft/public_html/ziroute.com/backend/api.php on line 870
+[23-Nov-2019 19:21:33 UTC] PHP Notice:  Undefined property: stdClass::$email in /home/oforsoft/public_html/ziroute.com/backend/api.php on line 870
+[23-Nov-2019 19:39:17 UTC] PHP Notice:  Undefined property: stdClass::$email in /home/oforsoft/public_html/ziroute.com/backend/api.php on line 870
+[23-Nov-2019 20:15:31 UTC] PHP Notice:  Undefined property: stdClass::$email in /home/oforsoft/public_html/ziroute.com/backend/api.php on line 870
+[23-Nov-2019 21:13:25 UTC] PHP Notice:  Undefined property: stdClass::$email in /home/oforsoft/public_html/ziroute.com/backend/api.php on line 870
+[23-Nov-2019 22:15:50 UTC] PHP Notice:  Undefined index: phone in /home/oforsoft/public_html/ziroute.com/backend/facebookAccountKitSuccess.php on line 4
+[23-Nov-2019 22:17:26 UTC] PHP Notice:  Undefined index: phone in /home/oforsoft/public_html/ziroute.com/backend/facebookAccountKit.php on line 114
+[23-Nov-2019 22:32:55 UTC] PHP Notice:  Undefined property: stdClass::$email in /home/oforsoft/public_html/ziroute.com/backend/api.php on line 870
+[23-Nov-2019 22:33:40 UTC] PHP Notice:  Undefined property: stdClass::$email in /home/oforsoft/public_html/ziroute.com/backend/api.php on line 870
+[23-Nov-2019 22:34:54 UTC] PHP Notice:  Undefined property: stdClass::$email in /home/oforsoft/public_html/ziroute.com/backend/api.php on line 870
+[23-Nov-2019 22:50:05 UTC] PHP Notice:  Undefined property: stdClass::$email in /home/oforsoft/public_html/ziroute.com/backend/api.php on line 870
+[23-Nov-2019 23:26:14 UTC] PHP Notice:  Undefined property: stdClass::$email in /home/oforsoft/public_html/ziroute.com/backend/api.php on line 870
+[31-Jan-2020 23:11:29 UTC] PHP Notice:  Undefined index: email in /home/oforsoft/public_html/ziroute.com/backend/facebookAccountKit.php on line 114
+[09-Mar-2020 11:36:55 UTC] PHP Warning:  Creating default object from empty value in /home/oforsoft/public_html/ziroute.com/backend/api.php on line 92
+[09-Mar-2020 11:37:05 UTC] PHP Warning:  Creating default object from empty value in /home/oforsoft/public_html/ziroute.com/backend/api.php on line 78
+[09-Mar-2020 12:14:45 UTC] PHP Warning:  Creating default object from empty value in /home/oforsoft/public_html/ziroute.com/backend/api.php on line 225
+[09-Mar-2020 12:14:46 UTC] PHP Warning:  Creating default object from empty value in /home/oforsoft/public_html/ziroute.com/backend/api.php on line 229
+[09-Mar-2020 12:27:19 UTC] PHP Warning:  Creating default object from empty value in /home/oforsoft/public_html/ziroute.com/backend/api.php on line 92
+[09-Mar-2020 12:27:23 UTC] PHP Warning:  Creating default object from empty value in /home/oforsoft/public_html/ziroute.com/backend/api.php on line 225
+[09-Mar-2020 12:27:23 UTC] PHP Warning:  Creating default object from empty value in /home/oforsoft/public_html/ziroute.com/backend/api.php on line 229
