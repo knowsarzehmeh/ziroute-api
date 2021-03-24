@@ -4,10 +4,10 @@
  /*
  $servername="localhost";
  $username="root";
- $password=""; 
+ $password="davidGMAIL@15"; 
  $database="mybiker"; 
 
-
+admin: admin.dev@ziroute.com | Password: 1qaz2wsx3edc@15
 
  status 5: ride accepted
  status 0: not accepted
@@ -22,7 +22,7 @@ status 12: trip completed
  $servername="localhost";
  $username="root";
  $database="ziroute_db"; 
- $password="davidGMAIL@15"; 
+ $password=""; 
  $con = mysqli_connect($servername,$username,$password,$database); 
 
 
